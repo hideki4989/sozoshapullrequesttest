@@ -1,1 +1,2 @@
 # sozoshapullrequesttest
+PULLリクエストの練習
